@@ -70,7 +70,7 @@ Desenvolver um sistema desde a parte de gerenciamento de código fonte e deploy,
 :heavy_check_mark: 
 
 :heavy_check_mark: 
-:heavy_check_mark: 
+
 
 ## Layout ou Deploy da Aplicação          
 

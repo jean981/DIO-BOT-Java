@@ -1,0 +1,11 @@
+inicio-dia
+	acordei
+	levantei da cama
+	fui tomar banho
+	escovei os dentes
+	troquei de roupa
+	fui para a cozinha fazer o cafe
+	tomei cafe
+	escovei os dentes (novamente)
+	sai para trabalhar.
+fim-dia

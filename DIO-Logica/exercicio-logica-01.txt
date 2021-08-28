@@ -1,0 +1,12 @@
+1 Crie um mapa menta para resolver um detrenimando problema, por exemplo, calcular a media aritmetica de 4 notas, sabendo que as notas sao as seguintes:
+
+nota 1 : 5
+nota 2 : 7
+nota 3 : 10
+nota 4 : 3
+
+como ja sabemos as notas. 
+
+o primeiro passo eh somar todas as nota.
+o segundo passo eh dividir o total por 4.
+o terceiro passo eh mostrar o resultado encontrado.

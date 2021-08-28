@@ -23,9 +23,9 @@
 
 :small_orange_diamond: [Algoritmos e Estrutura de Dados](#algoritmos-e-estrutura-de-dados) :vhs:
 
-:small_orange_diamond: [Spring Boot](spring-boot) :leaves:
+:small_orange_diamond: [Spring Boot](#spring-boot) :leaves:
 
-:small_orange_diamond:[API Rest com Spring Boot](sistema-api-rest-com-spring-boot) :leaves: :cloud_with_lightning:
+:small_orange_diamond: [API Rest com Spring Boot](#sistema-api-rest-com-spring-boot) :leaves: :cloud_with_lightning:
 
 :small_orange_diamond: [Funcionalidades](#funcionalidades) :memo:
 

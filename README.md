@@ -1,20 +1,17 @@
 # DIO - BootCamp Java :green_heart:
-
-<p align="center">
-
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=TESTES&message=%37&color=GREEN&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=java&message=tecnology&color=important&style=for-the-badge&logo=JAVA"/>
-    <img src="https://img.shields.io/static/v1?label=Git&message=version&color=important&style=for-the-badge&logo=git"/>   <img src="http://img.shields.io/static/v1?label=SQL&message=8.0.2&color=red&style=for-the-badge&logo=mysql"/>
-     <img src="http://img.shields.io/static/v1?label=. &message=IDE&color=important&style=for-the-badge&logo=eclipse"/>
-
-  <img src="http://img.shields.io/static/v1?label=. &message=framework&color=green&style=for-the-badge&logo=spring"/>
-
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-  
-  <img src = "https://img.shields.io/badge/version-v1.0.0-blue">
-<img src="https://img.shields.io/badge/%20-help--wanted-%23159818">  
+<p align="left">  
+  <a href="https://github.com/Naereen/badges/">
+    <img src = "https://img.shields.io/badge/version-v1.0.0-blue">
+    <img src="https://img.shields.io/badge/%20-help--wanted-%23159818"> 
+    <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="Open Source Yes">
+    <img src="https://badgen.net/badge/icon/terminal?icon=terminal&label" alt="Terminal">
+  </a>
 </p> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vim,git,idea,java,linux&theme=light" />
+  </a>
+</p>
 
 ## Tópicos
 :small_orange_diamond: [Descrição do Projeto](#descrição-do-projeto)

@@ -74,7 +74,8 @@ Desenvolver um sistema desde a parte de gerenciamento de código fonte e deploy,
 :warning: Em construção :construction:
 
 ## Pré-requisitos
-
-  <img src="https://img.shields.io/static/v1?label=java&message=tecnology&color=important&style=for-the-badge&logo=JAVA"/>
-  <img src="https://img.shields.io/static/v1?label=Git&message=version&color=important&style=for-the-badge&logo=git"/>
-  <img src="http://img.shields.io/static/v1?label=. &message=IDE&color=important&style=for-the-badge&logo=eclipse"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,idea,java&theme=light" />
+  </a>
+</p>
